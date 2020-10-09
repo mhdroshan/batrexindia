@@ -168,7 +168,7 @@ color: #333;
   bottom: 10px;
   margin: 5% auto;
   font-size: 22px;
-  width: fit-content;
+  width: max-content;
   font-family: 'Montserrat',
   sans-serif;
   color: brown;
